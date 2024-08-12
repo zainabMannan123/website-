@@ -1,0 +1,11 @@
+.box{
+width: 150px;
+height: 150px;
+display: inline-block;
+margin: 2px;
+font-size :80px;
+text-align: center;
+border: 1px solid black;
+}
+.black{
+    background-color:black;}
